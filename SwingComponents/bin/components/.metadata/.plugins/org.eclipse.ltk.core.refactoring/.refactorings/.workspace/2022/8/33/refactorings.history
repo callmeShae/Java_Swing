@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;BorderDemoProject&apos; to &apos;SwingComponents&apos;" description="Rename resource &apos;BorderDemoProject&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/BorderDemoProject" name="SwingComponents" stamp="1660075022195" updateReferences="true"/>
+</session>
